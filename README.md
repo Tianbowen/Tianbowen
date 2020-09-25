@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub! I'm Tianbowen. 👋
 
 <div><p>My profile overview: </p></div>
 
