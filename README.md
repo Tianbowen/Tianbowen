@@ -1,5 +1,12 @@
 ### Welcome to my GitHub! I'm Tianbowen. 👋
 
+### ✔️ I'm currently learning
+- Net Core
+- AngularJS
+- ReactJS
+- Golang
+- Rust
+
 <div><p>My profile overview: </p></div>
 
 ![Tianbowen's github stats](https://github-readme-stats.vercel.app/api?username=Tianbowen&show_icons=true)
