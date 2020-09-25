@@ -2,8 +2,8 @@
 
 ### ✔️ I'm currently learning
 - Net Core
-- AngularJS
 - ReactJS
+- AngularJS
 - Golang
 - Rust
 
