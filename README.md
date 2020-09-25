@@ -7,7 +7,7 @@
 - Golang
 - Rust
 
-<div><p>My profile overview: </p></div>
+### My profile overview:
 
 ![Tianbowen's github stats](https://github-readme-stats.vercel.app/api?username=Tianbowen&show_icons=true)
 <!--
